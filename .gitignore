@@ -1,0 +1,16 @@
+# Evita di caricare le librerie PHP installate con Composer
+/vendor/
+
+# File di configurazione e credenziali
+.env
+
+# Cache temporanee e file di sistema
+*.log
+*.cache
+*.tmp
+.DS_Store
+Thumbs.db
+
+# IDE/editor
+.vscode/
+.idea/
